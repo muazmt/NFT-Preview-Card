@@ -87,7 +87,7 @@ h1 {
 hr {
   background-color: hsl(215, 32%, 27%);
   opacity: 0.2;
-  margin-top: 6px;
+  margin-top: 8px;
 }
 .jules {
   display: flex;
@@ -98,7 +98,7 @@ hr {
   margin-right: 16px;
   border: 1px solid white;
   border-radius: 50%;
-  margin-top: 6px;
+  margin-top: 8px;
 }
 
 #anchor {
